@@ -1,0 +1,5 @@
+аннотации:
+https://www.infoq.com/articles/Type-Annotations-in-Java-8
+
+динамический прокси:
+http://samolisov.blogspot.com/2010/04/proxy-java.html

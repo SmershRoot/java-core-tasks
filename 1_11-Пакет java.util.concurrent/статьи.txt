@@ -1,0 +1,9 @@
+по concurrent:
+javadoc по пакету.
+
+
+по JMS:
+https://docs.oracle.com/cd/E19798-01/821-1841/bncdq/index.html
+http://activemq.apache.org/faq.html
+https://www.rabbitmq.com/getstarted.html
+http://www.javaworld.com/article/2077714/java-web-development/xa-transactions-using-spring.html
