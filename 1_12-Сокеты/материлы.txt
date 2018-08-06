@@ -1,0 +1,5 @@
+http://www.tutorialspoint.com/java/java_networking.htm
+http://www.javaworld.com/article/2077322/core-java/core-java-sockets-programming-in-java-a-tutorial.html
+http://spec-zone.ru/Java/Docs/1.5.0/api/java/net/InetAddress.html
+https://ru.wikipedia.org/wiki/Мультивещание
+http://stackoverflow.com/questions/18747134/getting-cant-assign-requested-address-java-net-socketexception-using-ehcache
